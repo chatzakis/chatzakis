@@ -6,7 +6,7 @@ Through internships at tech startups, I've mastered HTML, CSS, JavaScript, and v
 
 - 🔭 I’m currently working on fun web projects and small applications 🖥💻📱
 - 🌱 I’m currently learning new technologies and frameworks
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/michail-chatzakis-871284260/)
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/michail-chatzakis-871284260/) or via email **at chatzakisdev (at) gmail.com**
 
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
